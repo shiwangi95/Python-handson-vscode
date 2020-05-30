@@ -40,4 +40,4 @@ while hints != random:
         print(h)
 
 else:
-    print("CODE CRACKED!!!!!!!!!!")
+    print("CODE CRACKED!!!!!!!!!!!!!!")
